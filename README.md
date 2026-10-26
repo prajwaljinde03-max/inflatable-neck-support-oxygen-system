@@ -27,13 +27,13 @@ This project—developed during the **Designovation Program at IIT Jammu** by An
 
 ## 🎥 Project Videos & Demonstration
 
-### How-To-Use Demonstration
+### <span style="color: #0366d6;">How-To-Use Demonstration</span>
 <video width="100%" controls>
   <source src="assets/video/Prana_How to use (1).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Research & Prototyping Journey
+### <span style="color: #0366d6;">Research & Prototyping Journey</span>
 <video width="100%" controls>
   <source src="assets/video/research and prototyping product.mp4" type="video/mp4">
   Your browser does not support the video tag.
