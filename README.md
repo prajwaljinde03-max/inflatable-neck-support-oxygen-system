@@ -11,20 +11,18 @@ This project—developed during the **Designovation Program at IIT Jammu** by An
 
 ---
 
-## 📸 Project Gallery & Prototypes
+## 📸 Project Gallery & Prototypes (Sets 1 to 4)
 
-### Front View (Device Worn)
-![Front View](assets/images/front_view_product_weared.jpg)
-
-### Side View (Device Worn)
-![Side View](assets/images/side_view_product_weared.jpg)
-
-### Canister Prototyping
-![Canister Prototyping](assets/images/prototyping_cannister.jpg)
-
-### Product Prototyping
-![Product Prototyping](assets/images/prototyping_product.jpg)
-
+<table>
+  <tr>
+    <td align="center"><b>Set 1: Front View</b><br><img src="assets/images/front_view_product_weared.jpg" width="280"></td>
+    <td align="center"><b>Set 2: Side View</b><br><img src="assets/images/side_view_product_weared.jpg" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Set 3: Canister Prototyping</b><br><img src="assets/images/prototyping_cannister.jpg" width="280"></td>
+    <td align="center"><b>Set 4: Product Prototyping</b><br><img src="assets/images/prototyping_product.jpg" width="280"></td>
+  </tr>
+</table>
 ---
 
 ## 🎥 Project Videos & Demonstration
