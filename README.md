@@ -27,6 +27,26 @@ This project—developed during the **Designovation Program at IIT Jammu** by An
 
 ---
 
+---
+
+## 🎥 Project Videos & Demonstration
+
+### How-To-Use Demonstration
+https://github.com/prajwalaeroeng/inflatable-neck-support-oxygen-system/assets/your-video-filename.mp4
+*(Alternatively, you can use the video player tag below)*
+
+<video width="100%" controls>
+  <source src="Prana_How%20to%20use%20(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Research & Prototyping Journey
+<video width="100%" controls>
+  <source src="research and prototyping product.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🚀 Key Features & Working Principle
 * **Dual-Function Inflatable Cushion:** The U-shaped neck cushion functions simultaneously as a cervical support collar and an intermediate oxygen flow chamber, efficiently utilizing stored gas for both inflation and respiratory assistance.
 * **Lever-Operated Canister Actuation:** Features custom-machined Aluminium 6061-T6 canisters coupled with a threaded housing and lever mechanism that punctures/actuates the valve securely while remaining mounted.
