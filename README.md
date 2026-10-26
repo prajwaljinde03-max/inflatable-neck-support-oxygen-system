@@ -14,38 +14,32 @@ This project—developed during the **Designovation Program at IIT Jammu** by An
 ## 📸 Project Gallery & Prototypes
 
 ### Front View (Device Worn)
-![Front View](front_view_product_weared.jpg)
+![Front View](assets/images/front_view_product_weared.jpg)
 
 ### Side View (Device Worn)
-![Side View](side_view_product_weared.jpg)
+![Side View](assets/images/side_view_product_weared.jpg)
 
 ### Canister Prototyping
-![Canister Prototyping](prototyping_cannister.jpg)
+![Canister Prototyping](assets/images/prototyping_cannister.jpg)
 
 ### Product Prototyping
-![Product Prototyping](prototyping_product.jpg)
-
----
+![Product Prototyping](assets/images/prototyping_product.jpg)
 
 ---
 
 ## 🎥 Project Videos & Demonstration
 
 ### How-To-Use Demonstration
-https://github.com/prajwalaeroeng/inflatable-neck-support-oxygen-system/assets/your-video-filename.mp4
-*(Alternatively, you can use the video player tag below)*
-
 <video width="100%" controls>
-  <source src="Prana_How%20to%20use%20(1).mp4" type="video/mp4">
+  <source src="assets/video/Prana_How to use (1).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Research & Prototyping Journey
 <video width="100%" controls>
-  <source src="research and prototyping product.mp4" type="video/mp4">
+  <source src="assets/video/research and prototyping product.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 ## 🚀 Key Features & Working Principle
 * **Dual-Function Inflatable Cushion:** The U-shaped neck cushion functions simultaneously as a cervical support collar and an intermediate oxygen flow chamber, efficiently utilizing stored gas for both inflation and respiratory assistance.
